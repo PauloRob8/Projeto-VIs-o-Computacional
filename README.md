@@ -2,7 +2,7 @@
 Projeto final de Sistemas Multimídia utilizando visão computacional com foco no processamento de imagem.
 
 ## Detectando objetos
-Na imagem a seguir é feito uma série de passos para a detecção e contagem
+Na imagem a seguir é feito uma série de passos para a detecção e contagem utilizando a biblioteca openCV na linguagem python
 
 ![dados](https://user-images.githubusercontent.com/33494009/60737827-76185c80-9f32-11e9-980b-63ebe0a16f8d.jpeg)
 
